@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 I’m a mathematics and computational biology undergraduate at the National University of Singapore (NUS), previously enrolled in the Special Program in Science in NUS. 
+💻 I’m a mathematics and data science undergraduate at the National University of Singapore (NUS), previously enrolled in the Special Program in Science in NUS. 
 
 🧠 I’m currently researching generative modelling under Prof. Harold Soh at the Collaborative Learning and Adaptive Robots (CLeAR) lab and Prof Jonathan Scarlett as an undergraduate researcher.
 
