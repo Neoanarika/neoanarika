@@ -2,7 +2,7 @@
 
 💻 I’m a mathematics and data science undergraduate at the National University of Singapore (NUS), previously enrolled in the Special Program in Science in NUS. 
 
-🧠 I’m currently researching generative modelling under Prof. Harold Soh at the Collaborative Learning and Adaptive Robots (CLeAR) lab and Prof Jonathan Scarlett as an undergraduate researcher.
+🧠 I previously worked on generative modelling under Prof. Harold Soh at the Collaborative Learning and Adaptive Robots (CLeAR) lab. I also worked with Prof Jonathan Scarlett as an undergraduate researcher on trying to use generative models as priors for inverse problems. 
 
 💼 I work as a part-time trainer for Tertiary Courses teaching Tensorflow, Pytorch, Sklearn and Python. I also previously helped out in the Singapore Armed Forces (SAF) with some data science projects during my 2-years conscripted. 
 
